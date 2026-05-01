@@ -63,7 +63,11 @@ venv\Scripts\activate
 pip install -r requirements.txt
 4️⃣ Set environment variables
 Create a .env file:
-GOOGLE_API_KEY=your_google_gemini_api_keySERPAPI_API_KEY=your_serpapi_api_key
+
+GOOGLE_API_KEY=your_google_gemini_api_key
+
+SERPAPI_API_KEY=your_serpapi_api_key
+
 ⚠️ Do NOT upload .env to GitHub
 
 5️⃣ Run scraper
@@ -110,12 +114,9 @@ Query TypeActionDebales relatedRAGGeneralSERPMixedRAG + SERP
 
 Ensure API keys are valid
 
-
 Run scraper before vector store
 
-
 Run vector store before chatbot
-
 
 Internet connection required for SERP API
 
@@ -125,4 +126,4 @@ Internet connection required for SERP API
 Tannu Gupta
 B.Tech CSE | AI Enthusiast
 🔗 GitHub: https://github.com/Tannugupta04/Debales-ai-agent/tree/main
----If you want next level upgrade 🚀  I can:- add **badges (stars, license, tech icons)**  - make it **ATS + recruiter attractive README**  - or add **screenshots/demo section professionally**Just tell 👍
+
