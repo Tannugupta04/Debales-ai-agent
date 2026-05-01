@@ -36,12 +36,9 @@ This project is an AI-powered chatbot built using **LangGraph** that can answer:
 ---
 
 ## 🧩 Workflow
-User Question
-↓
-Router (LangGraph)
-↓
-RAG / SERP / BOTH
-↓
+User Question ->
+Router (LangGraph) ->
+RAG / SERP / BOTH ->
 Final Answer Generation
 
 
