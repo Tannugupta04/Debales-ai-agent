@@ -42,15 +42,12 @@ Google Gemini API (LLM)
 ### Workflow
 
 User Question
-
-      ↓
-      
+     ↓
+     
 Router (LangGraph)
-
       ↓
       
 RAG / SERP / BOTH
-
       ↓
       
 Final Answer Generation
