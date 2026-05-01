@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-community
+langchain-google-genai
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+requests
+python-dotenv
+google-search-results
